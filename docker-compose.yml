@@ -2,7 +2,7 @@ version: "3"
 
 services: 
   node:
-    image: "node"
+    image: "nodeapi"
     restart: unless-stopped
     working_dir: /home/node/api
     container_name: api

@@ -17,7 +17,7 @@ services:
       - ./api:/home/node/api
     ports:
       - "3000:3000"
-    command: "npm start"
+    command: "npm i && npm start"
     networks:
       - api-net 
 

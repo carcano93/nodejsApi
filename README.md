@@ -23,3 +23,5 @@ docker compose up -d
 
 Get all endpoints info from: [http://localhost:3000/](http://localhost:3000/)
 
+##### Important:
+###### This is very simple API.  The idea is that you can see how I organized the project, and the code. The API is not based on real requirements. 
